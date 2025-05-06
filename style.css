@@ -615,6 +615,15 @@ a {
 
 /** Search Popup
 --------------------------------------------------------------*/
+/* #billboard{
+  background-color: black;
+}
+body{
+  background-color: black;
+}
+section{
+  background-color: black;
+} */
 .search-popup {
   background-color: #fff;
   position: fixed;
